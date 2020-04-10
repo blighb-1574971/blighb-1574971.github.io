@@ -1,0 +1,43 @@
+
+
+.animalCrossingParagraph {
+    color: red;
+    border-style: dotted;
+}
+
+.smallerImages {
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+#firstFont {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#secondFont {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {  
+    position: relative;  
+    text-align: center;
+}
+
+/* Centered text */
+.centered {  
+    position: absolute;
+    top: 50%;
+    left: 50%;  
+    transform: translate(-50%, -50%);
+}
+
+#yellowContainer {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    background-color: yellow;
+}
